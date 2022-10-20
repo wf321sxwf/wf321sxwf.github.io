@@ -542,12 +542,11 @@ hexo-generator-category@^1.0.0:
   dependencies:
     hexo-pagination "1.0.0"
 
-hexo-generator-index@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.nlark.com/hexo-generator-index/download/hexo-generator-index-2.0.0.tgz#15e71f4d28ee9d2172e2d77e8d1dba04882edc8f"
+hexo-generator-index@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-index/-/hexo-generator-index-3.0.0.tgz#4c9233731e027a6af6491886a4aafe08ffdaffe0"
   dependencies:
-    hexo-pagination "1.0.0"
-    timsort "^0.3.0"
+    hexo-pagination "3.0.0"
 
 hexo-generator-tag@^1.0.0:
   version "1.0.0"
@@ -570,6 +569,10 @@ hexo-log@^2.0.0:
 hexo-pagination@1.0.0:
   version "1.0.0"
   resolved "https://registry.nlark.com/hexo-pagination/download/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
+
+hexo-pagination@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz#b98b050bbddff25ae646e3d00ad607ac6ae77ea7"
 
 hexo-renderer-ejs@^1.0.0:
   version "1.0.0"
@@ -1217,10 +1220,6 @@ text-table@^0.2.0:
 tildify@^2.0.0:
   version "2.0.0"
   resolved "https://registry.nlark.com/tildify/download/tildify-2.0.0.tgz?cache=0&sync_timestamp=1628773176327&other_urls=https%3A%2F%2Fregistry.nlark.com%2Ftildify%2Fdownload%2Ftildify-2.0.0.tgz#f205f3674d677ce698b7067a99e949ce03b4754a"
-
-timsort@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npm.taobao.org/timsort/download/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
 
 titlecase@^1.1.2:
   version "1.1.3"
